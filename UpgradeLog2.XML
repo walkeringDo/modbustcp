@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ModbusTester">
+</Property><Property Name="解决方案文件" Value="E:\ModbusSampleCommon\ModbusTester.sln">
+</Property><Property Name="Date" Value="2011年9月17日">
+</Property><Property Name="Time" Value="23:46">
+</Property><Property Name="日志号" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ModbusTester.sln" Description="文件已成功备份为 E:\ModbusSampleCommon\Backup1\ModbusTester.sln">
+</Event><Event ErrorLevel="0" Project="ModbusTester" Source="ModbusTester.csproj" Description="项目文件已成功备份为 E:\ModbusSampleCommon\Backup1\ModbusTester.csproj">
+</Event><Event ErrorLevel="0" Project="ModbusTester" Source="ModbusTester.csproj.user" Description="项目用户文件成功备份为 E:\ModbusSampleCommon\Backup1\ModbusTester.csproj.user">
+</Event><Event ErrorLevel="0" Project="ModbusTester" Source="AssemblyInfo.cs" Description="文件已成功备份为 E:\ModbusSampleCommon\Backup1\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ModbusTester" Source="frmStart.cs" Description="文件已成功备份为 E:\ModbusSampleCommon\Backup1\frmStart.cs">
+</Event><Event ErrorLevel="0" Project="ModbusTester" Source="App.ico" Description="文件已成功备份为 E:\ModbusSampleCommon\Backup1\App.ico">
+</Event><Event ErrorLevel="0" Project="ModbusTester" Source="frmStart.resx" Description="文件已成功备份为 E:\ModbusSampleCommon\Backup1\frmStart.resx">
+</Event><Event ErrorLevel="0" Project="ModbusTester" Source="ModbusTester.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="ModbusTester" Source="ModbusTester.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="" Source="ModbusTester.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="ModbusTester.sln" Description="Converted">
+</Event></UpgradeLog>

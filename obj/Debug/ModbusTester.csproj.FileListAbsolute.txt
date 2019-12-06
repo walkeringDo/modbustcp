@@ -1,0 +1,40 @@
+E:\ModbusSampleCommon\bin\Debug\ModbusTester.exe
+E:\ModbusSampleCommon\bin\Debug\ModbusTester.pdb
+E:\ModbusSampleCommon\bin\Debug\ModbusTCP.dll
+E:\ModbusSampleCommon\bin\Debug\ModbusTCP.pdb
+E:\ModbusSampleCommon\bin\Debug\ModbusTCP.xml
+E:\ModbusSampleCommon\obj\Debug\ResolveAssemblyReference.cache
+E:\ModbusSampleCommon\obj\Debug\Modbus.frmStart.resources
+E:\ModbusSampleCommon\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\ModbusSampleCommon\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\ModbusSampleCommon\obj\Debug\ModbusTester.exe
+E:\ModbusSampleCommon\obj\Debug\ModbusTester.pdb
+E:\Visual C#\ModbusSampleCommon\bin\Debug\ModbusTester.exe.config
+E:\Visual C#\ModbusSampleCommon\obj\Debug\ModbusTester.exe
+E:\Visual C#\ModbusSampleCommon\obj\Debug\ModbusTester.pdb
+E:\Visual C#\ModbusSampleCommon\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual C#\ModbusSampleCommon\obj\Debug\Modbus.frmStart.resources
+E:\Visual C#\ModbusSampleCommon\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Visual C#\ModbusSampleCommon\obj\Debug\GenerateResource.read.1.tlog
+E:\Visual C#\ModbusSampleCommon\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Visual C#\ModbusSampleCommon\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\p\Desktop\新建文件夹\可以使用modbustcp\bin\Debug\ModbusTester.exe.config
+C:\Users\p\Desktop\新建文件夹\可以使用modbustcp\obj\Debug\ModbusTester.exe
+C:\Users\p\Desktop\新建文件夹\可以使用modbustcp\obj\Debug\ModbusTester.pdb
+C:\Users\p\Desktop\新建文件夹\可以使用modbustcp\bin\Debug\ModbusTester.exe
+C:\Users\p\Desktop\新建文件夹\可以使用modbustcp\bin\Debug\ModbusTester.pdb
+C:\Users\p\Desktop\新建文件夹\可以使用modbustcp\bin\Debug\ModbusTCP.pdb
+C:\Users\p\Desktop\新建文件夹\可以使用modbustcp\bin\Debug\ModbusTCP.xml
+C:\Users\p\Desktop\新建文件夹\可以使用modbustcp\obj\Debug\ModbusTester.csprojResolveAssemblyReference.cache
+C:\Users\p\Desktop\新建文件夹\可以使用modbustcp\obj\Debug\Modbus.frmStart.resources
+C:\Users\p\Desktop\新建文件夹\可以使用modbustcp\obj\Debug\ModbusTester.csproj.GenerateResource.Cache
+D:\工作项目\可以使用modbustcp\bin\Debug\ModbusTester.exe.config
+D:\工作项目\可以使用modbustcp\obj\Debug\ModbusTester.exe
+D:\工作项目\可以使用modbustcp\obj\Debug\ModbusTester.pdb
+D:\工作项目\可以使用modbustcp\bin\Debug\ModbusTester.exe
+D:\工作项目\可以使用modbustcp\bin\Debug\ModbusTester.pdb
+D:\工作项目\可以使用modbustcp\bin\Debug\ModbusTCP.pdb
+D:\工作项目\可以使用modbustcp\bin\Debug\ModbusTCP.xml
+D:\工作项目\可以使用modbustcp\obj\Debug\ModbusTester.csprojResolveAssemblyReference.cache
+D:\工作项目\可以使用modbustcp\obj\Debug\Modbus.frmStart.resources
+D:\工作项目\可以使用modbustcp\obj\Debug\ModbusTester.csproj.GenerateResource.Cache
